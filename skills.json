@@ -1,5 +1,9 @@
 [
-   {
+    {
+        "name": "Linux",
+        "icon": "https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png"
+    },
+    {
         "name": "Cisco",
         "icon": "https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png"
     },
@@ -9,7 +13,15 @@
     },
     {
         "name": "Mikrotik",
-        "icon": "https://polmed.ac.id/wp-content/uploads/2024/01/MikroTik-Logo.png"
+        "icon": "https://freesvg.org/img/winbox-mikrotik-icon.png"
+    },
+    {
+        "name": "Livewire",
+        "icon": "https://files.svgcdn.io/devicon/livewire.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png"
     },
     {
         "name": "HTML5",
