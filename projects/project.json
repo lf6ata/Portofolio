@@ -1,7 +1,7 @@
 [{
     "name": "Inventory of Goods",
     "desc": "Kelola data inventaris, membuat log stock opname per sesi, dan rekap data stock opname. Platform komprehensif ini memberdayakan  admin GA dan admin TI untuk menyederhanakan pengelolaan dan pengambilan data inventaris, sekaligus mengurangi risiko kehilangan barang.",
-    "image": "",
+    "image": "invakis",
     "category": "web",
     "links": {
       "view": "https://hendrizalk.my.id/login",
